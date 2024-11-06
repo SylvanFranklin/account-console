@@ -1,5 +1,5 @@
 # Login Page Demo 
-Sylvan, Luke, Greek guy (Jake), Login Demo Project. MySQL database, Svelte-kit frontend, and Flask backend. This project also includes a build script because running all processes by hand is cumbersome. Running the project will differ slightly platform to platform.  
+Sylvan, Luke, Greek guy (Jake), Login Demo Project for an unspecified class at UVM. MySQL database, Svelte-kit frontend, and Flask backend. This project also includes a build script because running all processes by hand is cumbersome. Running the project will differ slightly platform to platform.  
 
 --- 
 
