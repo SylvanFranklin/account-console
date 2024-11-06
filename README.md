@@ -8,5 +8,8 @@ Sylvan, Luke, Greek guy (Jake), Login Demo Project for an unspecified class at U
 # Requirments
 In order to run the front end you need node and npm installed locally. Flask server will require installing several packages listed at the top of the app.py file. In some cases a virtual environment is necessary when installing these dependencies. A local SQL database is also required, for example mySQL or mariaDB. 
 
+I mostly wrote the frontend, but helped out a bit with the backend at some points. Luke and Jake handled the database and backend. 
+
+
 ### Demo video:
 [here](https://youtu.be/BFwRreUEM5k)
