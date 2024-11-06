@@ -1,0 +1,4 @@
+#!/bin/bash
+pip install flask_cors
+pip install mysql-connector-python
+(cd frontend && npm run dev) & (flask run)
